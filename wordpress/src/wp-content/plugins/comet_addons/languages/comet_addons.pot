@@ -1,0 +1,502 @@
+# Copyright (C) 2016 comet_addons
+# This file is distributed under the same license as the comet_addons package.
+msgid ""
+msgstr ""
+"Project-Id-Version: comet_addons\n"
+"Report-Msgid-Bugs-To: http://hody.co\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: HodyLab <support@hody.co>\n"
+"Language-Team: Hody <support@hody.co>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+
+#: admin/config.php:103
+msgid "Section via hook"
+msgstr ""
+
+#: admin/config.php:104
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array. Can be used by child themes to add/remove sections from the options.</p>"
+msgstr ""
+
+#: admin/config.php:151
+msgid "Theme Information 1"
+msgstr ""
+
+#: admin/config.php:152, admin/config.php:158
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/config.php:157
+msgid "Theme Information 2"
+msgstr ""
+
+#: admin/config.php:162
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: admin/config.php:180, admin/config.php:181, comet_addons.php:305, comet_addons.php:314, comet_addons.php:322, comet_addons.php:334, comet_addons.php:345, comet_addons.php:356, comet_addons.php:368, comet_addons.php:379, comet_addons.php:394, comet_addons.php:410, comet_addons.php:427, comet_addons.php:444, comet_addons.php:459, comet_addons.php:471, comet_addons.php:482, comet_addons.php:494
+msgid "Comet Options"
+msgstr ""
+
+#: admin/sections.php:8
+msgid "General"
+msgstr ""
+
+#: admin/sections.php:12
+msgid "Light Logo"
+msgstr ""
+
+#: admin/sections.php:13, admin/sections.php:22
+msgid "Upload your .png or .jpg logo"
+msgstr ""
+
+#: admin/sections.php:21
+msgid "Logo"
+msgstr ""
+
+#: admin/sections.php:31
+msgid "Smooth Scroll"
+msgstr ""
+
+#: admin/sections.php:32
+msgid "Enable Smooth Scrolling, it's on!"
+msgstr ""
+
+#: admin/sections.php:38
+msgid "Preloader"
+msgstr ""
+
+#: admin/sections.php:39
+msgid "Look, it's on!"
+msgstr ""
+
+#: admin/sections.php:45
+msgid "Header Search Form"
+msgstr ""
+
+#: admin/sections.php:46, admin/sections.php:53
+msgid "Warning: if set to off, individual page settings will be overridden."
+msgstr ""
+
+#: admin/sections.php:52
+msgid "Header Shopping Cart"
+msgstr ""
+
+#: admin/sections.php:59
+msgid "Google Maps Api Key"
+msgstr ""
+
+#: admin/sections.php:68
+msgid "Styling"
+msgstr ""
+
+#: admin/sections.php:73
+msgid "Primary Color"
+msgstr ""
+
+#: admin/sections.php:74
+msgid "Pick the primary color for the theme"
+msgstr ""
+
+#: admin/sections.php:81
+msgid "Dark Color"
+msgstr ""
+
+#: admin/sections.php:82
+msgid "Pick the dark color for the theme"
+msgstr ""
+
+#: admin/sections.php:83
+msgid "It's used for dark sections, buttons, and navbars."
+msgstr ""
+
+#: admin/sections.php:90
+msgid "Text Color"
+msgstr ""
+
+#: admin/sections.php:91
+msgid "Pick the text color for the theme"
+msgstr ""
+
+#: admin/sections.php:97
+msgid "Navbar Color"
+msgstr ""
+
+#: admin/sections.php:108
+msgid "Primary Font"
+msgstr ""
+
+#: admin/sections.php:109
+msgid "Select the primary font for the theme"
+msgstr ""
+
+#: admin/sections.php:110, admin/sections.php:127, admin/sections.php:145, admin/sections.php:162
+msgid "Leave blank to use default theme fonts."
+msgstr ""
+
+#: admin/sections.php:125
+msgid "Heading Font"
+msgstr ""
+
+#: admin/sections.php:126
+msgid "Select the font for the heading tags (H1, H2, H1, H4, H5, H6)"
+msgstr ""
+
+#: admin/sections.php:143
+msgid "Serif Font"
+msgstr ""
+
+#: admin/sections.php:144
+msgid "Select the serif font family."
+msgstr ""
+
+#: admin/sections.php:160
+msgid "Cursive Font"
+msgstr ""
+
+#: admin/sections.php:161
+msgid "Select the cursive font family."
+msgstr ""
+
+#: admin/sections.php:177
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/sections.php:178
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: admin/sections.php:190
+msgid "Social Links"
+msgstr ""
+
+#: admin/sections.php:196
+msgid "Facebook"
+msgstr ""
+
+#: admin/sections.php:202
+msgid "Twitter"
+msgstr ""
+
+#: admin/sections.php:208
+msgid "Google Plus"
+msgstr ""
+
+#: admin/sections.php:214
+msgid "Instagram"
+msgstr ""
+
+#: admin/sections.php:220
+msgid "Linkedin"
+msgstr ""
+
+#: admin/sections.php:226
+msgid "Youtube"
+msgstr ""
+
+#: admin/sections.php:232
+msgid "Pinterest"
+msgstr ""
+
+#: admin/sections.php:238
+msgid "Dribbble"
+msgstr ""
+
+#: admin/sections.php:244
+msgid "Tumblr"
+msgstr ""
+
+#: admin/sections.php:250
+msgid "Flickr"
+msgstr ""
+
+#: admin/sections.php:256
+msgid "Github"
+msgstr ""
+
+#: admin/sections.php:265
+msgid "Shop"
+msgstr ""
+
+#: admin/sections.php:269
+msgid "Show Sidebar on Shop Page"
+msgstr ""
+
+#: admin/sections.php:275
+msgid "Number of Columns"
+msgstr ""
+
+#: admin/sections.php:290
+msgid "404 Page"
+msgstr ""
+
+#: admin/sections.php:294
+msgid "Background Image"
+msgstr ""
+
+#: admin/sections.php:299
+msgid "Error Page Title"
+msgstr ""
+
+#: admin/sections.php:301
+msgid "Error 404"
+msgstr ""
+
+#: admin/sections.php:305
+msgid "Error Page Text"
+msgstr ""
+
+#: admin/sections.php:307
+msgid "The requested page was not found on this server. That’s all we know."
+msgstr ""
+
+#: admin/sections.php:315
+msgid "Footer"
+msgstr ""
+
+#: admin/sections.php:319
+msgid "Copyright Text"
+msgstr ""
+
+#: admin/sections.php:338
+msgid "<b>Warning</b>: You have already imported the demo content. Import another one will create duplicate content. If you want to reimport demo content, delete existing content before proceed."
+msgstr ""
+
+#: admin/sections.php:345
+msgid "Import Demo Data"
+msgstr ""
+
+#: admin/sections.php:353
+msgid "<img style='height: 18px; margin-bottom: -5px; margin-right: 5px;' src='.get_template_directory_uri./assets/images/loading.gif.'> <span>Importing demo content... It may take a few minutes. Don't close the page!</span>"
+msgstr ""
+
+#: admin/sections.php:358
+msgid "Import Demo"
+msgstr ""
+
+#: admin/sections.php:359
+msgid "Click the button to make your website look exactly like the demo.."
+msgstr ""
+
+#: admin/sections.php:368
+msgid "Theme Support"
+msgstr ""
+
+#: admin/sections.php:374
+msgid "Here you can read the theme documentation and watch video tutorials. If you do not find an answer to your problem, submit a ticket."
+msgstr ""
+
+#: comet_addons.php:130
+msgid "Browse Videos"
+msgstr ""
+
+#: comet_addons.php:203
+msgid "Font Style"
+msgstr ""
+
+#: comet_addons.php:211
+msgid "Use video background?"
+msgstr ""
+
+#: comet_addons.php:213
+msgid "If checked, video will be used as row background."
+msgstr ""
+
+#: comet_addons.php:222
+msgid "YouTube link"
+msgstr ""
+
+#: comet_addons.php:225
+msgid "Add YouTube link."
+msgstr ""
+
+#: comet_addons.php:243
+msgid "Self Hosted Video"
+msgstr ""
+
+#: comet_addons.php:246
+msgid "Select or upload a video."
+msgstr ""
+
+#: comet_addons.php:254
+msgid "Parallax"
+msgstr ""
+
+#: comet_addons.php:257
+msgid "No"
+msgstr ""
+
+#: comet_addons.php:258, comet_addons.php:271
+msgid "Yes"
+msgstr ""
+
+#: comet_addons.php:260
+msgid "Add parallax type background for row (Note: If no image is specified, parallax will use background image from Design Options)."
+msgstr ""
+
+#: comet_addons.php:268
+msgid "Full height row?"
+msgstr ""
+
+#: comet_addons.php:270
+msgid "If checked row will be set to full height."
+msgstr ""
+
+#: comet_addons.php:275
+msgid "Content position"
+msgstr ""
+
+#: comet_addons.php:278
+msgid "Default"
+msgstr ""
+
+#: comet_addons.php:279
+msgid "Middle"
+msgstr ""
+
+#: comet_addons.php:281
+msgid "Select content position within columns."
+msgstr ""
+
+#: comet_addons.php:285
+msgid "Row ID"
+msgstr ""
+
+#: comet_addons.php:287
+msgid "Enter row ID (Note: make sure it is unique and valid according to <a href=\"%s\" target=\"_blank\">w3c specification</a>)."
+msgstr ""
+
+#: comet_addons.php:291
+msgid "Extra class name"
+msgstr ""
+
+#: comet_addons.php:293
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
+msgstr ""
+
+#: comet_addons.php:297
+msgid "Row Background Color"
+msgstr ""
+
+#: comet_addons.php:310
+msgid "Split Row?"
+msgstr ""
+
+#: comet_addons.php:319
+msgid "Split Row Background"
+msgstr ""
+
+#: comet_addons.php:332
+msgid "Split Row Background Image"
+msgstr ""
+
+#: comet_addons.php:342
+msgid "Background Image Position"
+msgstr ""
+
+#: comet_addons.php:353
+msgid "Show Title?"
+msgstr ""
+
+#: comet_addons.php:366
+msgid "Section Title"
+msgstr ""
+
+#: comet_addons.php:377
+msgid "Section Subtitle"
+msgstr ""
+
+#: comet_addons.php:468
+msgid "Additional Content"
+msgstr ""
+
+#: comet_addons.php:470
+msgid "You can add an overlay here. Example: [cm_overlay][cm_play_button url=\"IFRAME_URL_HERE\"][/cm_overlay] "
+msgstr ""
+
+#: comet_addons.php:480
+msgid "Map Latitude"
+msgstr ""
+
+#: comet_addons.php:483, comet_addons.php:495
+msgid "Find your Latitude and Longitude <a target=\"blank\" href=\"http://www.latlong.net/\">here</a>"
+msgstr ""
+
+#: comet_addons.php:492
+msgid "Map Longitude"
+msgstr ""
+
+#: vc/shortcodes/blog_summary.php:22, vc/shortcodes/common.php:72
+msgid "Read More"
+msgstr ""
+
+#: vc/shortcodes/common.php:92
+msgid "Days"
+msgstr ""
+
+#: vc/shortcodes/common.php:93
+msgid "Hours"
+msgstr ""
+
+#: vc/shortcodes/common.php:94
+msgid "Minutes"
+msgstr ""
+
+#: vc/shortcodes/common.php:95
+msgid "Seconds"
+msgstr ""
+
+#: vc/shortcodes/common.php:111
+msgid "Your Email Address"
+msgstr ""
+
+#: vc/shortcodes/common.php:113
+msgid "Subscribe"
+msgstr ""
+
+#: vc/shortcodes/portfolio.php:21
+msgid "All"
+msgstr ""
+
+#: vc/vc_defaults.php:16
+msgid "Classic Home Page"
+msgstr ""
+
+#: vc/vc_defaults.php:35
+msgid "One Page Classic Home"
+msgstr ""
+
+#: vc/vc_defaults.php:58
+msgid "Restaurant Template"
+msgstr ""
+
+#: vc/vc_defaults.php:78
+msgid "Architecture Template"
+msgstr ""
+
+#: vc/vc_defaults.php:97
+msgid "Photography Template"
+msgstr ""
+
+#: vc/vc_defaults.php:114
+msgid "Landing Page Template"
+msgstr ""
+
+#: vc/vc_defaults.php:137
+msgid "Resume Template"
+msgstr ""
+
+#: vc/vc_defaults.php:157
+msgid "Models Agency Template"
+msgstr ""
+
+#: vc/vc_defaults.php:180
+msgid "Fitness Template"
+msgstr ""
